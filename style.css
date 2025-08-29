@@ -18,6 +18,11 @@ img{
     height: 200px;
 }
 
+p{
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 @keyframes float {
     0%, 100% {
     transform: translateY(0);
